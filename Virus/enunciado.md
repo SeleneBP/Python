@@ -20,3 +20,9 @@ Positivo: Sí se encuentra restos de la variante COVID.
 __________________________________________________________
 4. A continuación, creará una tupla con la siguiente información:
 (24-11-2022,10:15,0123,Positivo o negativo)
+
+__________________________________________________________
+
+- [Código](https://github.com/SeleneBP/Python/blob/main/Virus/proyecto2.py)
+- [Fichero que crea el código](https://github.com/SeleneBP/Python/blob/main/Virus/virus.txt))
+- [Resultado Código](/Imagenes/proyecto2.png)
