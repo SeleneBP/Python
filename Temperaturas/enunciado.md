@@ -1,4 +1,4 @@
-#PROBLEMA 1
+# PROBLEMA 1
 
 La Junta de Andalucía quiere hacer un estudio de cómo está afectando el cambio climático en Parque Natural de Doñana. 
 Se han colocado sensores de temperaturas en varios puntos del parque.
