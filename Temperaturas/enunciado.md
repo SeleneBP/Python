@@ -19,3 +19,8 @@ Toma de temperaturas (son números reales) hasta que se pulse 100.
 2. Los analizará y mostrará en pantalla el informe anterior.
 3. A continuación, creará una tupla con la siguiente información:
 (24-11-2022,10:15,t1,t2,t3,t4) que se guardará en un archivo llamados temperaturas.txt
+
+___________________________________________________________
+
+- Código
+- Resultado Código
