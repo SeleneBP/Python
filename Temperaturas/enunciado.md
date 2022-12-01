@@ -22,5 +22,6 @@ Toma de temperaturas (son números reales) hasta que se pulse 100.
 
 ___________________________________________________________
 
-- Código
-- Resultado Código
+- [Código](https://github.com/SeleneBP/Python/blob/main/Temperaturas/proyecto.py)
+- [Fichero que crea el código](https://github.com/SeleneBP/Python/blob/main/Temperaturas/temperaturas.txt)
+- [Resultado Código](/Imagenes/proyecto1.png)
