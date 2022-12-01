@@ -24,5 +24,5 @@ __________________________________________________________
 __________________________________________________________
 
 - [Código](https://github.com/SeleneBP/Python/blob/main/Virus/proyecto2.py)
-- [Fichero que crea el código](https://github.com/SeleneBP/Python/blob/main/Virus/virus.txt))
+- [Fichero que crea el código](https://github.com/SeleneBP/Python/blob/main/Virus/virus.txt)
 - [Resultado Código](/Imagenes/proyecto2.png)
